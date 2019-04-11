@@ -6,9 +6,12 @@ This is my Introduction
 
 ## Purpose
 
-My name is khan
+This is my new purpose
+
 
 ## Deployment
+
+I am ready to deploy
 
 ## How to Contribute
 
