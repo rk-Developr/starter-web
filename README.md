@@ -15,7 +15,7 @@ I am ready to deploy
 
 ## How to Contribute
 
-I have contributed to 
+Please fork this thing
 
 ## Copyright
 
