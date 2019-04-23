@@ -15,4 +15,8 @@ I am ready to deploy
 
 ## How to Contribute
 
-I have contributed to this
+I have contributed to 
+
+## Copyright
+
+2014 Git.Training.
