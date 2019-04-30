@@ -1,7 +1,7 @@
 # Starter Web project
 
 ## Introduction
-Adding a line for rebasing example
+Adding a line for rebasing example, more changes from my feature branch too!
 
 This is my Introduction
 
