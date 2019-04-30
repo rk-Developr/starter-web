@@ -1,6 +1,7 @@
 # Starter Web project
 
 ## Introduction
+Adding a line for rebasing example
 
 This is my Introduction
 
